@@ -1,5 +1,7 @@
 # Facebook Test Users Manager
 
+> **⚠️ This project is no longer maintained and has been archived.**
+
 - Weizhong Yang (a.k.a zonble)
 - zonble at gmail dot com
 
